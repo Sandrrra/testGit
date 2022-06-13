@@ -10,6 +10,10 @@ public class Main {
 		
 		System.out.println(" mon projet fonctionne !");
 		System.out.println(" et j'arrive à faire des commit ");
+		System.out.println(" 3eme commit ");
+		System.out.println("et ça continue vers le 5eme commit ");
+		
+		
 
 	}
 
